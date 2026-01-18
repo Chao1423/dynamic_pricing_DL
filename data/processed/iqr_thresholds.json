@@ -1,0 +1,10 @@
+{
+  "duration_minutes": {
+    "lower": -442.80000000000007,
+    "upper": 1818.0
+  },
+  "days_left": {
+    "lower": -19.5,
+    "upper": 72.5
+  }
+}

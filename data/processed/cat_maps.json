@@ -1,0 +1,58 @@
+{
+  "airline": {
+    "UNK": 0,
+    "AirAsia": 1,
+    "Air_India": 2,
+    "GO_FIRST": 3,
+    "Indigo": 4,
+    "SpiceJet": 5,
+    "Vistara": 6
+  },
+  "source_city": {
+    "UNK": 0,
+    "Bangalore": 1,
+    "Chennai": 2,
+    "Delhi": 3,
+    "Hyderabad": 4,
+    "Kolkata": 5,
+    "Mumbai": 6
+  },
+  "destination_city": {
+    "UNK": 0,
+    "Bangalore": 1,
+    "Chennai": 2,
+    "Delhi": 3,
+    "Hyderabad": 4,
+    "Kolkata": 5,
+    "Mumbai": 6
+  },
+  "departure_time": {
+    "UNK": 0,
+    "Afternoon": 1,
+    "Early_Morning": 2,
+    "Evening": 3,
+    "Late_Night": 4,
+    "Morning": 5,
+    "Night": 6
+  },
+  "arrival_time": {
+    "UNK": 0,
+    "Afternoon": 1,
+    "Early_Morning": 2,
+    "Evening": 3,
+    "Late_Night": 4,
+    "Morning": 5,
+    "Night": 6
+  },
+  "stops": {
+    "UNK": 0,
+    "one": 1,
+    "two_or_more": 2,
+    "zero": 3
+  },
+  "class": {
+    "UNK": 0,
+    "Business": 1,
+    "Economy": 2
+  }
+}
